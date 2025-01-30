@@ -49,3 +49,6 @@ Maximize liquidity, increase your token’s visibility, and drive demand effortl
 🔹 **Target Token Mint:** `6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN`  
 
 💡 **Get Started Today!** Configure your bot, set your strategy, and let it run!  
+
+## 💡 Need This Tool?  
+📩 Contact [**@kthenurseone**](https://t.me/kthenurseone) on Telegram for more details.  
